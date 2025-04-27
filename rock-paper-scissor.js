@@ -89,9 +89,9 @@ const score = {
               computerMove='paper';
           }
           else if(randomNumber>=2/3&&randomNumber<1){
-              computerMove=('scissors');}
+              computerMove=('scissorshhhhhhh');}
               console.log(computerMove);
-           // return statement
+           // return statement to return the computer move
               return computerMove;
           }
         
